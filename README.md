@@ -133,7 +133,7 @@ When booting from boot installer USB make sure if you're upgrading that you clea
 In BIOS ensure you are booting from boot installer USB.
 From OC boot menu select the boot installer USB
 
-This should go through the install process. If the screen goes blank and even if the monitor goes in to standby leave for a few mintues. The first time I installed this I thought it had failed. YOu should then see the Apple logo and a countdown.
+This should go through the install process. If the screen goes blank and even if the monitor goes in to standby leave for a few mintues. The first time I installed this I thought it had failed. You should then see the Apple logo and a countdown.
 Installer will then reboot and it should then preselect 'Install Mac OS' (or similar) from OC boot menu.
 Install will continue, it can take a while so grab a drink and snacks.
 
